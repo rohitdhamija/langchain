@@ -1,0 +1,383 @@
+Rohit Dhamija
+                                                                                                                                 
+Current Location: Noida, India              			Mobile: +919871996112
+Email ID: rohit.dhamija@gmail.com                 		 
+https://www.linkedin.com/in/rohitdhamija
+https://github.com/rohitdhamija
+
+
+Career Synopsis
+
+Product management and engineering across Mobile, Analytics and Chatbots/AI to build and deliver software that delights customers and enables their success. 
+
+Skills: Product Management | Product Evangelism | Product Development | New Product Introduction | Proof of Concepts | Artificial Intelligence | Machine Learning | Conversational AI | Natural Language Understanding (NLU) | Conversational Analytics | Enterprise Mobility | Software as a Service | Platform as a Service | User Experience | Agile | Go-To-Market | Customer Experience | Competitive Analysis | Technical Writing
+
+Domains
+
+AI/ML chat Bots and Mobile, Cloud platforms  building SaaS and PaaS products
+
+Web and Cloud Technology
+
+* AI/ML - Oracle Artificial Intelligence Bots Cloud Service (PaaS)
+* Oracle Analytics Cloud Service (SaaS)
+* Tableau
+* Oracle Autonomous Database  ATP workload
+* Oracle Visual Builder Cloud Service  Low code PaaS product 
+* Heroku (PaaS)
+* AWS cloud services  lambda, S3, EC2
+* Oracle Cloud Infrastructure (OCI Gen2)  Compute, Object Storage, Oracle Functions 
+
+Mobile Competence
+
+AI Chatbots, Mobile application development - Hybrid and Native. Android SDK/NDK, Apple iOS SDK, Cordova/Phone Gap. Chatbot using Alexa integration, FB Webhooks and custom Node.js
+
+Languages/Tools
+C/C++, Python, R JavaScript, React JS, Node.JS, VS Code, Google Colab Notebooks, SQL Developer
+Data Science and AI/ML
+
+Machine Learning using scikit-learn and Python 3 - NumPy, spacy, nltk, TensorFlow, scikit-learn, matplotlib and pandas. Natural language processing using deep learning frameworks: PyTorch
+
+
+Companies Served
+
+
+Company Name
+Time Period
+Role
+Oracle India Private Limited
+April,16  till date
+Director of Product Management
+DMI Innovations Private Limited
+Feb 14  April,16
+Manager - Technology Architect
+Samsung R&D Institute India
+Feb 07  Feb, 14
+Chief Engineer
+Safe Net Infotech Pvt. Ltd. 
+Sept 04 - Jan, 07
+Sr. Software Engineer
+Divas Offshore Software Technologies (P) Ltd
+Dec 02 - June, 04
+Sr. Software Engineer
+
+
+Professional Experience
+	
+
+Oracle India Private Limited - Noida
+April 2016  Till Date
+Director of Product Management, Oracle Digital Assistant, AI/NLP
+
+
+Oracle Digital Assistant  Oracle cloud PaaS offering to build conversational interfaces and virtual agents for enterprise customers
+
+Product Management and strategy in following key areas: 
+
+* Oracle Digital Assistant Analytics to provide real time actionable insights into natural language conversational bottlenecks via a self-learning model based on multi-lingual conversational/voice metrics, deflection rates, NLU data quality, AI/intent resolution and execution path analysis.  
+
+* Conversation to SQL: Building natural language interface for databases, Core Data, Model and Platform capabilities in the Conversational AI and Assistant. 
+
+
+Skills: NLU  Deep Learning  Natural Language Processing (NLP)  Conversational flow  Artificial Intelligence (AI)
+
+Prior to ODA, I was Developer advocate @ Oracle Visual Builder - Oracle's low-code development platform for the JavaScript/HTML5 generation.
+
+
+My key responsibilities include:
+
+* Solution Expert: Building complex chat and voice-based bot development involving building Conversational UI's, YAML, JavaScript, backend integration using Node.js based application servers and webhooks.
+
+* Hands-on for building Digital Assistant AI/ML/NLP and integration use-case development using JavaScript, YAML, Python and libraries - NumPy, spacy, NLTK, TensorFlow, scikit-learn, matplotlib and pandas
+
+* Developer advocate and evangelism: Developer outreach by speaking at conferences, 
+
+* Technical Enablement: Write and publish reference architectures, technical articles and create reference implementations for Oracle Digital Assistant product.
+
+* Enablement Execution: Supporting customers and partners adopting the technology throughout the evaluation, development, and deployment processes as well as understanding required features and objectives while collecting customer feedback as part of the overall solution.
+    
+    Reference:
+1. https://medium.com/@rohit.dhamija
+2. http://bit.ly/ODAEnablement
+
+
+DMI Innovations Private Limited - Noida
+Feb 2014  April 2016
+Manager  Technology Architect
+
+* Leading enterprise mobile application team for developing an innovative sales engagement tool comprising of 
+o iPad application, iOS 7+
+o Web Technologies - HTML5, CSS, Bootstrap, JavaScript 
+
+* Hand-on mobile (android and iOS) development on customer projects, prototyping, R&D, reusable assets.
+
+* Providing architectural documentation to customers and to development team.
+
+* Assisting Sales with determining the optimal solution for a customer, with high-level development estimates, with scoping of work, with splitting projects on phases.
+
+* Technical and Team leadership in the development team of 7-8 people.
+
+* Structuring customer requirements, communication with customer on all stages of projects.
+
+Client
+Client is one of the largest global cement manufacturers based out of Mexico
+Context
+* Client wanted to build a holistic Mobility Strategy that could be adopted at an organization level for increasing the overall Mobile Maturity of the organization
+Solution
+* Understood the current state of Mobility adoption in the enterprise through a well-defined Mobile Maturity Model
+* Identified the key gaps in Mobility adoption within the enterprise
+* Web Technologies  Ext JS 4.2.1, Sencha Touch, HTML, CSS, JS, Angular JS
+
+
+Client
+Client is one of the largest manufactures of home water filtration products.
+Context
+* Provide the dealers and their sales agents with a highly engaging, information rich and easy to use iPad application for selling water filtration products on the go.
+Solution
+* Native iPad application with mobile middleware services built on JBOSS platform.
+* Enterprise Systems Integration  Salesforce Platform (Web2Lead), JD Edwards (File based)
+
+
+Samsung R&D Institute India - Delhi
+Feb 2007  Feb 2014 
+Chief Engineer
+
+* Projects relate to Digital signage, convergence solutions, color calibration and system   software for multiple Samsung devices  LFD, Smartphones, Tablets, LED panels and Digital Photo Frames. 
+* Major Client/s: Samsung Electronics, Korea
+
+Project
+Description
+Role & Responsibilities
+
+MagicInfo Mobile Player
+
+(Sept 2013 till date)
+
+Development of Signage Player for Android Tablet. 
+
+OS Platform: Android Tablet (4.1 and above)
+
+
+* Design and development of signage player, device management service
+
+* Worked on Android application using Android SDK
+
+MDC Mobile
+
+(Jan 2013 till August 2013)
+
+Enterprise Smartphone solution for monitoring and control LFD remotely via MDC protocol
+
+OS platform: Android Tablet 10.1, Windows server 2008
+
+* Design and development of MDC Server, Receiver and MDC Tablet Application 
+
+* Worked on Android and C++
+
+MagicInfo-I Mobile Management
+
+(August 2011 - Dec 2012)
+
+Enterprise Smartphone solution for content scheduling and monitoring via MagicInfo server
+
+Android App: Enterprise App bundled with MagicInfo server
+iPhone app: http://itunes.apple.com/in/app/magicinfo/id514508186?mt=8
+
+OS platform: Android & iOS
+Devices: Galaxy S2 (2.3.6), Note (2.3.6), Tab (Honeycomb), iPhone 5, iPad 2, 3
+* Project Lead & Responsible for project planning, design & development of entire project
+
+* Designed and developed all major custom classes for Android and iOS application
+
+Mobile Solutions:
+[NAT Traversal Screen Sharing and VKM]
+
+(October 2010 - July 2011)
+* Development of NAT traversal solution to facilitate communications involving hosts (Smartphone and LFDs) on different private network. 
+
+* Development of RDP (VNC: Screen Sharing) and Virtual Keyboard/mouse (VKM) application.
+
+OS platform: Android and iOS Devices: Galaxy S2 (2.3.6), Tab (Honeycomb), iPhone 3GS, iPad 
+* Analysis for development of NAT traversal library, VNC and VKM on Android and iOS 
+* Design & Development of Communication Module between VNC/VKM application and NAT traversal library in Android and iOS
+* Deploying NAT traversal library for Android and iOS
+
+
+MiniMonitor  Digital Photo frame (DPF) 
+
+(April 2010  September 2010) 
+
+DPF can be used as secondary display device (Multi Screen) using this software just by connecting it with an Intel based Mac via USB
+
+OS platform: Windows XP, Mac OS X (10.5.x)
+Hardware Platform: DPF
+* Design and development of the core modules  Virtual display driver and USB bulk device driver. 
+* CATC USB Analyzer for USB client driver bugs and performance issues.
+
+
+Maize Color Correction 
+
+(Oct 2009 to March 2010)
+
+Development of color correction algorithm. This is a software calibration and correction of LCD panels once they are out of manufacturing.
+
+OS platform: Windows XP
+Hardware Platform: LCD
+
+* Project Leader, complete analysis of bottlenecks required for design and development of maize color correction algorithm and utility
+
+
+PVR-PC 
+
+(Jan 2009 to Sep 2009)
+
+Development of Windows application to manage encrypted DRM contents from LED TV having Ext3 file system-based HDD
+
+OS platform: Windows XP
+Hardware Platform: HDD
+* Designing overall architecture of the project.
+* Updated Ext3 file system driver development for:
+* Speed optimization of the open-source Ext3FSD
+* Customizing driver as per the requirement.
+
+USB-I2C Chip (Cypress and SMSC)
+
+(Dec 2007 to Dec 2008)
+Existing monitors used I2C communication for software calibration. With introduction of USB-I2C chip, software calibration can be done via USB, thereby eliminating dependency of graphics card reverse engineering for I2C lines and addresses
+
+OS platform: Windows XP, Mac OS X
+Hardware: CATC USB protocol hardware analyzer, Cypress and SMSC USB-I2C chip
+* Interaction/Communication with USB-I2C chip vendors.
+* Development of system software of USB-I2C chip on Mac OS X
+* Developing test case for USB-I2C chip
+
+Natural Color Expert  NCE
+
+(Feb 2007 to Nov 2007)
+
+NCE is software to maximize and optimize the capability of the Sync master XL series monitor for broad color bands. 
+
+OS platform: Windows XP, Mac OS X
+Hardware: Sync master XL 20,24,30
+
+* PCI device driver development
+* Driver debugging of various graphics card to fetch I2C lines and address
+
+
+SafeNet Infotech Pvt. Ltd. - Noida
+Sept 2004 - Jan 2007
+Sr.  Software Engineer
+
+* Key technical member of Sentinel Keys product line, a software rights management solution that protects software vendors from unauthorized use or distribution of their products.
+* Worked on Application Security and Software Rights Management 
+
+Project
+Description
+Role & Responsibilities
+
+Sentinel Litmus
+
+(Jan 2006 to Jan 2007)
+
+Sentinel Litmus is Macintosh version of Sentinel Keys software.
+
+OS platform: Macintosh 10.3.9, 10.4.11, and 10.5.8 for PowerPC
+Macintosh 10.4.11, 10.5.8, and 10.6.1 (32-bit and x64) for Intel
+* Design and development of client driver for a USB bulk device. (Framework and kernel extension, KEXT), code entirely in C++ using XCode 2.4 for Mac OS X
+
+
+Sentinel Keys
+
+(Sept 2004 to Dec,2005)
+
+Sentinel Keys is hardware-dongle based security system with rich set of features and APIs which can be embedded in the software by the software developers who want to implement anti-hacking techniques and per-seat licensing in an effective way.
+
+OS platform: Windows
+
+* Designing using MS Visio 
+* Development of toolkit in Java using JBuilder 2005
+* Development of JNI
+* Development of Client module for exposing Sentinel API; s, code written in C using VC++ environment.
+* Used IBM purify and True Coverage for performance and code coverage analysis
+
+
+Divas Offshore Software Technologies (P) Ltd. - Gurgaon
+Dec 2002 - March 2004
+Software Engineer
+
+* Responsible for requirements analysis, design & development of system/modules
+* Worked on data restore software and network management software
+* Major Client/s: Camber Systems, US
+
+Project
+Description
+Role & Responsibilities
+
+EZ-Security: Reboot-and-restore
+
+ (March 2003 to June 2004)
+ 
+EZ-Security prevents users from permanently changing system settings, thereby eliminating damage resulting from inadvertent user errors, malicious hacking.
+ 
+
+OS Platform: Windows
+* Development and up gradation of File System Filter driver using IFS kit
+* Development of GUI using MFC and Win32 API; s VC++ 6.0
+* Developed unit test cases for the toolkit and client module.
+
+
+EZ-Classroom Manager
+
+(Dec 2002 to Feb 2003)
+
+EZ-Classroom Manager streamlines the control and 
+monitoring of networked PC's 
+
+OS Platform: Windows
+* Development of client module in C using VC++ environment.
+* Development of GUI using MFC and Win32 API; s VC++ 6.0
+* Developed unit test cases for client module.
+
+
+Professional Achievements
+
+
+* Cloud Certification: 
+o Certified Oracle Cloud Infrastructure Foundations 2020 Certified Associate exam, July 2020
+o Certified Oracle Cloud Infrastructure Developer 2020 Certified Associate, July 2020
+o Microsoft Certified: Azure Fundamentals, November 2020
+* Machine Learning Engineer Nanodegree, Statistics, Sep 2018
+* Received Spot Award in March 2015 for special contribution in Apple Innovations  Health kit
+* Received Annual Award 2010 for Best Mentor in Samsung India Software Center (SISC)
+* Filed patent, Application Number: 1125/KOL/2007. A device for Securing DATA STORAGE under the Indian Patent Law.
+* Research paper on System gamma and color temperature correction in low gray level of LCD device by using PLCC model
+
+Academic Profile
+
+
+Education
+Year of Passing
+Percentage/CGPA
+Advance Program in Data Science and Machine learning, IIM Calcutta
+October 2020
+Excellent
+Masters degree in Software Systems, M.S BITS Pilani, DLP
+April 2006 
+7.27/10
+B.Tech, Computer Science & Engineering, I.E.T Ropar
+July 2002
+70.85%
+10+ 2, Non-medical, D.A.V College, Chandigarh 
+June 1998
+71.0%
+10th, ICL Public School, Rajpura, Punjab (C.B.S.E)
+May 1996
+79.4%
+
+Personal Details 
+
+Name: Rohit Dhamija
+Marital Status: Married (wife Homemaker, Children: 2)
+DOB: 18th August 1980
+Passport: Indian J5279020
+Present Address: Flat 701, Tower 10, Sunworld Vanalika, Sector 107, Noida, UP, India 201301 
+US Visa: B1/B2 (Valid till 2025) 
